@@ -1,0 +1,14 @@
+.headerLink{
+  margin-left: 100px;
+  text-decoration: none;
+  font-weight: 900;
+  font-family: 'Courier New', Courier, monospace;
+}
+.header-container{
+    margin-left: 300px;
+}
+.box-container{
+    width: 2000px;
+    height: 2000px;
+    background-color: rgb(106, 153, 149);
+}
